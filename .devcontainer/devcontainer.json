@@ -22,6 +22,10 @@
 		"ms-vscode.cpptools",
 		"ms-vscode.cmake-tools"
 	],
+	"mounts": [
+		"source=C:/users/jakgo/.ssh,target=/home/conan/.ssh,type=bind,consistency=cached",
+		"source=C:/users/jakgo/.gitconfig,target=/home/conan/.gitconfig,type=bind,consistency=cached"
+	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 	// Use 'postCreateCommand' to run commands after the container is created.
