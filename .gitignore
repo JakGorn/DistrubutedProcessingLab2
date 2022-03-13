@@ -1,0 +1,6 @@
+*.a 
+*.so 
+*.o 
+list_test_static 
+list_test 
+list_test_dynamic
